@@ -49,8 +49,6 @@ Há 3 pastas que seguem da seguinte forma:
 
 ## 🗃 Histórico de lançamentos
 A cada atualização os detalhes devem ser lançados aqui.
-* 0.1.1 - 12/02/2025.
-  * Crazy Eights realizado. 
 * 0.1.0 - 10/02/2025.
   * Início do projeto. 
 
