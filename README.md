@@ -10,9 +10,9 @@
 
 ## Integrantes:  
 - [Andreia Alaini Silva](https://br.linkedin.com/in/andreia-alaini-854a88208)
-- [Guilherme Mendez Albuquerque](INSERIR)
+- [Guilherme Mendez Albuquerque](https://br.linkedin.com/in/guilherme-mendes-albuquerque-6a50b330a)
 - [Matheus Francisco](INSERIR)  
-- [Luan Meireles Franchini](https://www.linkedin.com/in/luan-m-132452142/))  
+- [Luan Meireles Franchini](https://www.linkedin.com/in/luan-m-132452142/)
 
 ## Professores orientadores: 
 - [Aimar Martins Lopes](https://www.linkedin.com/in/aimarlopes/)
