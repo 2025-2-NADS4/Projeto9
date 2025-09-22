@@ -9,7 +9,7 @@
 ## Projeto 9 | Codigo com Deus Pai
 
 ## Integrantes:  
-- [Andreia Alaini Silva](INSERIR)
+- [Andreia Alaini Silva](https://br.linkedin.com/in/andreia-alaini-854a88208)
 - [Guilherme Mendez Albuquerque](INSERIR)
 - [Matheus Francisco](INSERIR)  
 - [Luan Meireles Franchini](https://www.linkedin.com/in/luan-m-132452142/))  
