@@ -1,0 +1,290 @@
+[
+  {
+    "id": "CMP-3234",
+    "name": "Volte e Ganhe 10%",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.28,
+    "store.name": "La Pasticceria Cannoli",
+    "badge": "reactivation"
+  },
+  {
+    "id": "CMP-3290",
+    "name": "Combo Família",
+    "type": "Product",
+    "status": "Published",
+    "conversionRate": 0.23,
+    "store.name": "La Pasticceria Cannoli",
+    "badge": "product"
+  },
+  {
+    "id": "CMP-5218",
+    "name": "Semana do Frete Grátis",
+    "type": "Seasonal",
+    "status": "Published",
+    "conversionRate": 0.13,
+    "store.name": "La Pasticceria Cannoli",
+    "badge": "seasonal"
+  },
+  {
+    "id": "CMP-3842",
+    "name": "Cliente VIP Premium",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.26,
+    "store.name": "La Pasticceria Cannoli",
+    "badge": "loyalty"
+  },
+  {
+    "id": "CMP-9314",
+    "name": "Happy Hour Especial",
+    "type": "Timing",
+    "status": "Published",
+    "conversionRate": 0.06,
+    "store.name": "La Pasticceria Cannoli",
+    "badge": "timing"
+  },
+  {
+    "id": "CMP-2589",
+    "name": "Volte e Ganhe 10%",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.37,
+    "store.name": "Sushi Yamamoto",
+    "badge": "reactivation"
+  },
+  {
+    "id": "CMP-9661",
+    "name": "Combo Família",
+    "type": "Product",
+    "status": "Published",
+    "conversionRate": 0.06,
+    "store.name": "Sushi Yamamoto",
+    "badge": "product"
+  },
+  {
+    "id": "CMP-2999",
+    "name": "Semana do Frete Grátis",
+    "type": "Seasonal",
+    "status": "Published",
+    "conversionRate": 0.23,
+    "store.name": "Sushi Yamamoto",
+    "badge": "seasonal"
+  },
+  {
+    "id": "CMP-8409",
+    "name": "Cliente VIP Premium",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.28,
+    "store.name": "Sushi Yamamoto",
+    "badge": "loyalty"
+  },
+  {
+    "id": "CMP-6478",
+    "name": "Happy Hour Especial",
+    "type": "Timing",
+    "status": "Published",
+    "conversionRate": 0.39,
+    "store.name": "Sushi Yamamoto",
+    "badge": "timing"
+  },
+  {
+    "id": "CMP-1660",
+    "name": "Volte e Ganhe 10%",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.27,
+    "store.name": "Luigi's Trattoria",
+    "badge": "reactivation"
+  },
+  {
+    "id": "CMP-8825",
+    "name": "Combo Família",
+    "type": "Product",
+    "status": "Published",
+    "conversionRate": 0.15,
+    "store.name": "Luigi's Trattoria",
+    "badge": "product"
+  },
+  {
+    "id": "CMP-5399",
+    "name": "Volte e Ganhe 10%",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.11,
+    "store.name": "Burger House Artesanal",
+    "badge": "reactivation"
+  },
+  {
+    "id": "CMP-2272",
+    "name": "Combo Família",
+    "type": "Product",
+    "status": "Published",
+    "conversionRate": 0.21,
+    "store.name": "Burger House Artesanal",
+    "badge": "product"
+  },
+  {
+    "id": "CMP-6365",
+    "name": "Volte e Ganhe 10%",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.2,
+    "store.name": "Veggie Life Saudável",
+    "badge": "reactivation"
+  },
+  {
+    "id": "CMP-3781",
+    "name": "Combo Família",
+    "type": "Product",
+    "status": "Published",
+    "conversionRate": 0.15,
+    "store.name": "Veggie Life Saudável",
+    "badge": "product"
+  },
+  {
+    "id": "CMP-8591",
+    "name": "Volte e Ganhe 10%",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.29,
+    "store.name": "Churrascaria Boi na Brasa",
+    "badge": "reactivation"
+  },
+  {
+    "id": "CMP-4795",
+    "name": "Combo Família",
+    "type": "Product",
+    "status": "Published",
+    "conversionRate": 0.35,
+    "store.name": "Churrascaria Boi na Brasa",
+    "badge": "product"
+  },
+  {
+    "id": "CMP-2710",
+    "name": "Semana do Frete Grátis",
+    "type": "Seasonal",
+    "status": "Published",
+    "conversionRate": 0.25,
+    "store.name": "Churrascaria Boi na Brasa",
+    "badge": "seasonal"
+  },
+  {
+    "id": "CMP-3467",
+    "name": "Cliente VIP Premium",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.25,
+    "store.name": "Churrascaria Boi na Brasa",
+    "badge": "loyalty"
+  },
+  {
+    "id": "CMP-5662",
+    "name": "Happy Hour Especial",
+    "type": "Timing",
+    "status": "Published",
+    "conversionRate": 0.31,
+    "store.name": "Churrascaria Boi na Brasa",
+    "badge": "timing"
+  },
+  {
+    "id": "CMP-7060",
+    "name": "Volte e Ganhe 10%",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.23,
+    "store.name": "Açaí da Praia",
+    "badge": "reactivation"
+  },
+  {
+    "id": "CMP-6102",
+    "name": "Combo Família",
+    "type": "Product",
+    "status": "Published",
+    "conversionRate": 0.06,
+    "store.name": "Açaí da Praia",
+    "badge": "product"
+  },
+  {
+    "id": "CMP-9647",
+    "name": "Volte e Ganhe 10%",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.36,
+    "store.name": "Taco Loco Mexicano",
+    "badge": "reactivation"
+  },
+  {
+    "id": "CMP-1706",
+    "name": "Combo Família",
+    "type": "Product",
+    "status": "Published",
+    "conversionRate": 0.17,
+    "store.name": "Taco Loco Mexicano",
+    "badge": "product"
+  },
+  {
+    "id": "CMP-7506",
+    "name": "Volte e Ganhe 10%",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.28,
+    "store.name": "Padaria do Seu Manuel",
+    "badge": "reactivation"
+  },
+  {
+    "id": "CMP-7876",
+    "name": "Combo Família",
+    "type": "Product",
+    "status": "Published",
+    "conversionRate": 0.16,
+    "store.name": "Padaria do Seu Manuel",
+    "badge": "product"
+  },
+  {
+    "id": "CMP-1861",
+    "name": "Semana do Frete Grátis",
+    "type": "Seasonal",
+    "status": "Published",
+    "conversionRate": 0.09,
+    "store.name": "Padaria do Seu Manuel",
+    "badge": "seasonal"
+  },
+  {
+    "id": "CMP-4159",
+    "name": "Cliente VIP Premium",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.24,
+    "store.name": "Padaria do Seu Manuel",
+    "badge": "loyalty"
+  },
+  {
+    "id": "CMP-4592",
+    "name": "Happy Hour Especial",
+    "type": "Timing",
+    "status": "Published",
+    "conversionRate": 0.16,
+    "store.name": "Padaria do Seu Manuel",
+    "badge": "timing"
+  },
+  {
+    "id": "CMP-7646",
+    "name": "Volte e Ganhe 10%",
+    "type": "Loyalty",
+    "status": "Published",
+    "conversionRate": 0.32,
+    "store.name": "Café Aroma & Grão",
+    "badge": "reactivation"
+  },
+  {
+    "id": "CMP-9542",
+    "name": "Combo Família",
+    "type": "Product",
+    "status": "Published",
+    "conversionRate": 0.3,
+    "store.name": "Café Aroma & Grão",
+    "badge": "product"
+  }
+]

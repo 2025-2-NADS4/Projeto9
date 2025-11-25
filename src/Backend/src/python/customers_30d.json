@@ -1,0 +1,4706 @@
+[
+  {
+    "id": "CUST_6813",
+    "name": "Elisa Pereira",
+    "status": "Inactive",
+    "totalSpent": 712.42,
+    "totalOrders": 4,
+    "avgTicket": 117.95,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-21T12:16:04.682Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_6197",
+    "name": "Sabrina Ferreira",
+    "status": "Active",
+    "totalSpent": 552.34,
+    "totalOrders": 8,
+    "avgTicket": 108.05,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-26T12:16:04.682Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_2977",
+    "name": "Diego Almeida",
+    "status": "Inactive",
+    "totalSpent": 819.84,
+    "totalOrders": 12,
+    "avgTicket": 159.09,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-24T12:16:04.682Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_5818",
+    "name": "Paula Lima",
+    "status": "Active",
+    "totalSpent": 589.32,
+    "totalOrders": 13,
+    "avgTicket": 133.41,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-22T12:16:04.682Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_4751",
+    "name": "Gabriela Souza",
+    "status": "Active",
+    "totalSpent": 228.89,
+    "totalOrders": 2,
+    "avgTicket": 142.25,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-29T12:16:04.682Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_8833",
+    "name": "Isabela Lima",
+    "status": "Active",
+    "totalSpent": 821.47,
+    "totalOrders": 8,
+    "avgTicket": 155.2,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-10T12:16:04.682Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_7236",
+    "name": "Marina Lima",
+    "status": "Active",
+    "totalSpent": 751.45,
+    "totalOrders": 2,
+    "avgTicket": 106.84,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-02T12:16:04.682Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_8644",
+    "name": "Otávio Gomes",
+    "status": "Active",
+    "totalSpent": 824.37,
+    "totalOrders": 8,
+    "avgTicket": 113.38,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.682Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_2036",
+    "name": "Sabrina Oliveira",
+    "status": "Active",
+    "totalSpent": 236.12,
+    "totalOrders": 6,
+    "avgTicket": 196.8,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-08T12:16:04.682Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_2589",
+    "name": "Elisa Oliveira",
+    "status": "Active",
+    "totalSpent": 242.73,
+    "totalOrders": 1,
+    "avgTicket": 111.73,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-04T12:16:04.682Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_4741",
+    "name": "Natália Pereira",
+    "status": "Inactive",
+    "totalSpent": 543.93,
+    "totalOrders": 1,
+    "avgTicket": 146.75,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-01T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_7317",
+    "name": "Elisa Gomes",
+    "status": "Active",
+    "totalSpent": 584.64,
+    "totalOrders": 11,
+    "avgTicket": 114.97,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_7303",
+    "name": "Isabela Oliveira",
+    "status": "Active",
+    "totalSpent": 697.43,
+    "totalOrders": 7,
+    "avgTicket": 142.09,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-22T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_8065",
+    "name": "Carla Oliveira",
+    "status": "Active",
+    "totalSpent": 905.33,
+    "totalOrders": 8,
+    "avgTicket": 188.32,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-14T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_1304",
+    "name": "Henrique Costa",
+    "status": "Active",
+    "totalSpent": 523.31,
+    "totalOrders": 13,
+    "avgTicket": 106.83,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-19T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_5897",
+    "name": "Paula Almeida",
+    "status": "Active",
+    "totalSpent": 549.83,
+    "totalOrders": 1,
+    "avgTicket": 148.5,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-16T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_8349",
+    "name": "Rafael Costa",
+    "status": "Active",
+    "totalSpent": 970.5,
+    "totalOrders": 15,
+    "avgTicket": 100.16,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-10-31T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_6264",
+    "name": "Paula Gomes",
+    "status": "Active",
+    "totalSpent": 494.64,
+    "totalOrders": 3,
+    "avgTicket": 113.92,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-04T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_4176",
+    "name": "Marina Costa",
+    "status": "Active",
+    "totalSpent": 548.68,
+    "totalOrders": 4,
+    "avgTicket": 174.92,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-12T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_4877",
+    "name": "Rafael Souza",
+    "status": "Active",
+    "totalSpent": 551.24,
+    "totalOrders": 9,
+    "avgTicket": 173.39,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-18T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_5989",
+    "name": "Carla Santos",
+    "status": "Inactive",
+    "totalSpent": 474.29,
+    "totalOrders": 3,
+    "avgTicket": 155.57,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-06T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_8793",
+    "name": "Felipe Silva",
+    "status": "Active",
+    "totalSpent": 311.02,
+    "totalOrders": 11,
+    "avgTicket": 167.16,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-17T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_4242",
+    "name": "Bruno Gomes",
+    "status": "Inactive",
+    "totalSpent": 284.01,
+    "totalOrders": 5,
+    "avgTicket": 106.96,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-15T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_8599",
+    "name": "Henrique Lima",
+    "status": "Active",
+    "totalSpent": 311.56,
+    "totalOrders": 4,
+    "avgTicket": 151,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-07T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_9281",
+    "name": "Ana Pereira",
+    "status": "Active",
+    "totalSpent": 713.19,
+    "totalOrders": 8,
+    "avgTicket": 178.05,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-29T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_2789",
+    "name": "Gabriela Oliveira",
+    "status": "Inactive",
+    "totalSpent": 491.08,
+    "totalOrders": 5,
+    "avgTicket": 96.01,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-24T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_6700",
+    "name": "Rafael Lima",
+    "status": "Active",
+    "totalSpent": 540.24,
+    "totalOrders": 9,
+    "avgTicket": 149.67,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-14T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_9973",
+    "name": "Felipe Santos",
+    "status": "Inactive",
+    "totalSpent": 400.31,
+    "totalOrders": 2,
+    "avgTicket": 160.55,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-07T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_9231",
+    "name": "Carla Ferreira",
+    "status": "Active",
+    "totalSpent": 815.84,
+    "totalOrders": 2,
+    "avgTicket": 108.16,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-22T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_7283",
+    "name": "Vitória Gomes",
+    "status": "Active",
+    "totalSpent": 595.57,
+    "totalOrders": 6,
+    "avgTicket": 167.23,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-01T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_5234",
+    "name": "Otávio Gomes",
+    "status": "Active",
+    "totalSpent": 409.6,
+    "totalOrders": 11,
+    "avgTicket": 155.76,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-04T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_6486",
+    "name": "João Souza",
+    "status": "Active",
+    "totalSpent": 537.69,
+    "totalOrders": 10,
+    "avgTicket": 136.64,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-29T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_8938",
+    "name": "Sabrina Santos",
+    "status": "Inactive",
+    "totalSpent": 952.81,
+    "totalOrders": 6,
+    "avgTicket": 85.12,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-04T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_4068",
+    "name": "Elisa Lima",
+    "status": "Inactive",
+    "totalSpent": 475.49,
+    "totalOrders": 15,
+    "avgTicket": 105.05,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-12T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_9354",
+    "name": "Tiago Silva",
+    "status": "Active",
+    "totalSpent": 779.55,
+    "totalOrders": 13,
+    "avgTicket": 124,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-07T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_5982",
+    "name": "Otávio Lima",
+    "status": "Inactive",
+    "totalSpent": 891.12,
+    "totalOrders": 3,
+    "avgTicket": 106.86,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-09T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_5511",
+    "name": "João Gomes",
+    "status": "Active",
+    "totalSpent": 542.44,
+    "totalOrders": 14,
+    "avgTicket": 150.95,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-17T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_4253",
+    "name": "Vitória Almeida",
+    "status": "Inactive",
+    "totalSpent": 353.48,
+    "totalOrders": 14,
+    "avgTicket": 93.49,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-13T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_3809",
+    "name": "Tiago Costa",
+    "status": "Active",
+    "totalSpent": 259.35,
+    "totalOrders": 3,
+    "avgTicket": 147.96,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-06T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_6926",
+    "name": "Carla Lima",
+    "status": "Active",
+    "totalSpent": 921.45,
+    "totalOrders": 13,
+    "avgTicket": 107.17,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-23T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_9580",
+    "name": "Bruno Silva",
+    "status": "Active",
+    "totalSpent": 730.79,
+    "totalOrders": 11,
+    "avgTicket": 182.68,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-31T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_1782",
+    "name": "Elisa Pereira",
+    "status": "Active",
+    "totalSpent": 994.51,
+    "totalOrders": 2,
+    "avgTicket": 120.24,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-06T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_1538",
+    "name": "Felipe Costa",
+    "status": "Inactive",
+    "totalSpent": 823.82,
+    "totalOrders": 6,
+    "avgTicket": 188.34,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-24T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_4843",
+    "name": "Paula Silva",
+    "status": "Active",
+    "totalSpent": 637.18,
+    "totalOrders": 15,
+    "avgTicket": 107.11,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-31T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_6231",
+    "name": "Sabrina Silva",
+    "status": "Active",
+    "totalSpent": 905.36,
+    "totalOrders": 11,
+    "avgTicket": 197.62,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-13T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_9784",
+    "name": "Isabela Santos",
+    "status": "Active",
+    "totalSpent": 437.24,
+    "totalOrders": 10,
+    "avgTicket": 109.54,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-02T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_1231",
+    "name": "Felipe Gomes",
+    "status": "Active",
+    "totalSpent": 642.33,
+    "totalOrders": 15,
+    "avgTicket": 113.07,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_2932",
+    "name": "João Santos",
+    "status": "Active",
+    "totalSpent": 779.96,
+    "totalOrders": 8,
+    "avgTicket": 101.19,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-12T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_6678",
+    "name": "Ana Silva",
+    "status": "Active",
+    "totalSpent": 871.72,
+    "totalOrders": 12,
+    "avgTicket": 170.13,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-26T12:16:04.683Z",
+    "store.name": "La Pasticceria Cannoli",
+    "merchant": {
+      "name": "La Pasticceria Cannoli"
+    }
+  },
+  {
+    "id": "CUST_6092",
+    "name": "Marina Almeida",
+    "status": "Active",
+    "totalSpent": 383.64,
+    "totalOrders": 7,
+    "avgTicket": 164.14,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-10-31T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_7512",
+    "name": "Henrique Lima",
+    "status": "Active",
+    "totalSpent": 220.83,
+    "totalOrders": 6,
+    "avgTicket": 90.84,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-20T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_7613",
+    "name": "Sabrina Souza",
+    "status": "Active",
+    "totalSpent": 976.83,
+    "totalOrders": 12,
+    "avgTicket": 177.88,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-22T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_9456",
+    "name": "Ana Almeida",
+    "status": "Active",
+    "totalSpent": 524.11,
+    "totalOrders": 8,
+    "avgTicket": 185.73,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-29T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_8134",
+    "name": "Leonardo Almeida",
+    "status": "Active",
+    "totalSpent": 801.04,
+    "totalOrders": 5,
+    "avgTicket": 150.25,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-23T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_9706",
+    "name": "Gabriela Pereira",
+    "status": "Inactive",
+    "totalSpent": 546.91,
+    "totalOrders": 5,
+    "avgTicket": 95.05,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-10T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_8594",
+    "name": "Paula Oliveira",
+    "status": "Inactive",
+    "totalSpent": 400.37,
+    "totalOrders": 7,
+    "avgTicket": 186.58,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-18T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_2407",
+    "name": "Rafael Lima",
+    "status": "Active",
+    "totalSpent": 207.61,
+    "totalOrders": 1,
+    "avgTicket": 191.42,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-06T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_1446",
+    "name": "Carla Almeida",
+    "status": "Active",
+    "totalSpent": 888.15,
+    "totalOrders": 15,
+    "avgTicket": 190.85,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-24T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_7050",
+    "name": "Karen Silva",
+    "status": "Inactive",
+    "totalSpent": 961.88,
+    "totalOrders": 6,
+    "avgTicket": 164.61,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-12T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_5294",
+    "name": "Elisa Pereira",
+    "status": "Inactive",
+    "totalSpent": 503.78,
+    "totalOrders": 5,
+    "avgTicket": 177.44,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-23T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_4325",
+    "name": "Sabrina Almeida",
+    "status": "Active",
+    "totalSpent": 963.34,
+    "totalOrders": 13,
+    "avgTicket": 147.33,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-13T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_6509",
+    "name": "Carla Gomes",
+    "status": "Active",
+    "totalSpent": 889.79,
+    "totalOrders": 8,
+    "avgTicket": 80.95,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-02T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_2811",
+    "name": "Leonardo Almeida",
+    "status": "Active",
+    "totalSpent": 304.32,
+    "totalOrders": 15,
+    "avgTicket": 158.05,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-03T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_8488",
+    "name": "Isabela Lima",
+    "status": "Active",
+    "totalSpent": 537.98,
+    "totalOrders": 7,
+    "avgTicket": 154.84,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-21T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_3904",
+    "name": "Ana Costa",
+    "status": "Active",
+    "totalSpent": 770.08,
+    "totalOrders": 4,
+    "avgTicket": 141.94,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_6514",
+    "name": "João Souza",
+    "status": "Active",
+    "totalSpent": 399.53,
+    "totalOrders": 1,
+    "avgTicket": 114.69,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-22T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_5469",
+    "name": "Sabrina Costa",
+    "status": "Active",
+    "totalSpent": 960.02,
+    "totalOrders": 6,
+    "avgTicket": 98.81,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-03T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_1665",
+    "name": "Bruno Costa",
+    "status": "Active",
+    "totalSpent": 237.25,
+    "totalOrders": 9,
+    "avgTicket": 147.78,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-20T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_8395",
+    "name": "Gabriela Almeida",
+    "status": "Active",
+    "totalSpent": 749.03,
+    "totalOrders": 3,
+    "avgTicket": 124.01,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-09T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_4413",
+    "name": "Diego Silva",
+    "status": "Active",
+    "totalSpent": 847.82,
+    "totalOrders": 5,
+    "avgTicket": 117.22,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-05T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_5894",
+    "name": "Karen Silva",
+    "status": "Inactive",
+    "totalSpent": 869.89,
+    "totalOrders": 7,
+    "avgTicket": 86.64,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-15T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_5044",
+    "name": "Otávio Souza",
+    "status": "Active",
+    "totalSpent": 962.97,
+    "totalOrders": 12,
+    "avgTicket": 155.39,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-23T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_6512",
+    "name": "Vitória Silva",
+    "status": "Active",
+    "totalSpent": 842.04,
+    "totalOrders": 1,
+    "avgTicket": 147.8,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-24T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_5776",
+    "name": "Otávio Santos",
+    "status": "Inactive",
+    "totalSpent": 446.52,
+    "totalOrders": 7,
+    "avgTicket": 164.68,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-02T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_1587",
+    "name": "Carla Souza",
+    "status": "Active",
+    "totalSpent": 402.46,
+    "totalOrders": 12,
+    "avgTicket": 193.51,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-09T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_7724",
+    "name": "Sabrina Oliveira",
+    "status": "Active",
+    "totalSpent": 408.88,
+    "totalOrders": 6,
+    "avgTicket": 129.37,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-08T12:16:04.699Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_2193",
+    "name": "Tiago Oliveira",
+    "status": "Active",
+    "totalSpent": 959.63,
+    "totalOrders": 1,
+    "avgTicket": 179.9,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-29T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_3573",
+    "name": "Carla Almeida",
+    "status": "Inactive",
+    "totalSpent": 988.24,
+    "totalOrders": 6,
+    "avgTicket": 115.21,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-29T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_8708",
+    "name": "Rafael Gomes",
+    "status": "Active",
+    "totalSpent": 744.25,
+    "totalOrders": 5,
+    "avgTicket": 105.82,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-03T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_8192",
+    "name": "Sabrina Ferreira",
+    "status": "Active",
+    "totalSpent": 462.07,
+    "totalOrders": 6,
+    "avgTicket": 146.42,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-05T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_2140",
+    "name": "Diego Lima",
+    "status": "Active",
+    "totalSpent": 728.89,
+    "totalOrders": 7,
+    "avgTicket": 161.19,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-28T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_8968",
+    "name": "Vitória Silva",
+    "status": "Active",
+    "totalSpent": 230.93,
+    "totalOrders": 6,
+    "avgTicket": 139.98,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-14T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_5784",
+    "name": "Rafael Silva",
+    "status": "Active",
+    "totalSpent": 829.16,
+    "totalOrders": 11,
+    "avgTicket": 175.2,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-17T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_3152",
+    "name": "João Lima",
+    "status": "Active",
+    "totalSpent": 294.01,
+    "totalOrders": 14,
+    "avgTicket": 191.28,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_7853",
+    "name": "Leonardo Pereira",
+    "status": "Active",
+    "totalSpent": 403.02,
+    "totalOrders": 13,
+    "avgTicket": 181.9,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-23T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_9321",
+    "name": "Natália Gomes",
+    "status": "Active",
+    "totalSpent": 734.35,
+    "totalOrders": 6,
+    "avgTicket": 124.54,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-17T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_1337",
+    "name": "Marina Souza",
+    "status": "Active",
+    "totalSpent": 425.46,
+    "totalOrders": 3,
+    "avgTicket": 116.38,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-12T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_2257",
+    "name": "Vitória Costa",
+    "status": "Active",
+    "totalSpent": 255.91,
+    "totalOrders": 1,
+    "avgTicket": 114.24,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-01T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_1206",
+    "name": "Elisa Ferreira",
+    "status": "Active",
+    "totalSpent": 745.17,
+    "totalOrders": 9,
+    "avgTicket": 119.31,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-09T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_4522",
+    "name": "Isabela Silva",
+    "status": "Active",
+    "totalSpent": 732.49,
+    "totalOrders": 4,
+    "avgTicket": 107.01,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-04T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_6217",
+    "name": "Karen Almeida",
+    "status": "Active",
+    "totalSpent": 329.57,
+    "totalOrders": 13,
+    "avgTicket": 151.19,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-17T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_9759",
+    "name": "Carla Santos",
+    "status": "Active",
+    "totalSpent": 306.66,
+    "totalOrders": 4,
+    "avgTicket": 198.5,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-15T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_7409",
+    "name": "Diego Santos",
+    "status": "Active",
+    "totalSpent": 806.97,
+    "totalOrders": 11,
+    "avgTicket": 146.59,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-06T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_5378",
+    "name": "Leonardo Ferreira",
+    "status": "Active",
+    "totalSpent": 229.9,
+    "totalOrders": 13,
+    "avgTicket": 88.6,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-13T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_5994",
+    "name": "Isabela Santos",
+    "status": "Inactive",
+    "totalSpent": 635.6,
+    "totalOrders": 9,
+    "avgTicket": 115.73,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-09T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_8318",
+    "name": "Isabela Pereira",
+    "status": "Active",
+    "totalSpent": 375.18,
+    "totalOrders": 7,
+    "avgTicket": 150.53,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-05T12:16:04.700Z",
+    "store.name": "Sushi Yamamoto",
+    "merchant": {
+      "name": "Sushi Yamamoto"
+    }
+  },
+  {
+    "id": "CUST_3689",
+    "name": "Tiago Ferreira",
+    "status": "Inactive",
+    "totalSpent": 700.81,
+    "totalOrders": 1,
+    "avgTicket": 95.75,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-24T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_3880",
+    "name": "Karen Souza",
+    "status": "Active",
+    "totalSpent": 880.01,
+    "totalOrders": 9,
+    "avgTicket": 76.21,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-29T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_3252",
+    "name": "João Souza",
+    "status": "Active",
+    "totalSpent": 600.01,
+    "totalOrders": 15,
+    "avgTicket": 63.19,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-07T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_2723",
+    "name": "Vitória Pereira",
+    "status": "Active",
+    "totalSpent": 585.58,
+    "totalOrders": 5,
+    "avgTicket": 55.45,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_1961",
+    "name": "Marina Oliveira",
+    "status": "Active",
+    "totalSpent": 228.98,
+    "totalOrders": 7,
+    "avgTicket": 60.57,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-23T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_7770",
+    "name": "Gabriela Lima",
+    "status": "Active",
+    "totalSpent": 220.17,
+    "totalOrders": 9,
+    "avgTicket": 53.8,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-26T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_6630",
+    "name": "Paula Almeida",
+    "status": "Active",
+    "totalSpent": 724.1,
+    "totalOrders": 9,
+    "avgTicket": 70.87,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-30T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_7766",
+    "name": "Paula Lima",
+    "status": "Active",
+    "totalSpent": 893.5,
+    "totalOrders": 1,
+    "avgTicket": 97.22,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-18T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_3873",
+    "name": "Ana Lima",
+    "status": "Active",
+    "totalSpent": 932.72,
+    "totalOrders": 8,
+    "avgTicket": 78.46,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-01T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_3792",
+    "name": "João Oliveira",
+    "status": "Active",
+    "totalSpent": 829.17,
+    "totalOrders": 12,
+    "avgTicket": 74.34,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-30T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_2726",
+    "name": "Elisa Costa",
+    "status": "Active",
+    "totalSpent": 766.86,
+    "totalOrders": 3,
+    "avgTicket": 61.05,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-13T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_5616",
+    "name": "Natália Silva",
+    "status": "Active",
+    "totalSpent": 482.11,
+    "totalOrders": 5,
+    "avgTicket": 63.9,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-31T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_2324",
+    "name": "Diego Costa",
+    "status": "Active",
+    "totalSpent": 270.36,
+    "totalOrders": 8,
+    "avgTicket": 89.8,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-26T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_5413",
+    "name": "João Souza",
+    "status": "Active",
+    "totalSpent": 977.2,
+    "totalOrders": 5,
+    "avgTicket": 56.66,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-06T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_5914",
+    "name": "Vitória Pereira",
+    "status": "Inactive",
+    "totalSpent": 704.58,
+    "totalOrders": 4,
+    "avgTicket": 97.54,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-04T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_6931",
+    "name": "Ana Ferreira",
+    "status": "Inactive",
+    "totalSpent": 443.97,
+    "totalOrders": 10,
+    "avgTicket": 72.31,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-03T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_9090",
+    "name": "Marina Ferreira",
+    "status": "Inactive",
+    "totalSpent": 302.33,
+    "totalOrders": 4,
+    "avgTicket": 59.66,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-30T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_7781",
+    "name": "Diego Lima",
+    "status": "Active",
+    "totalSpent": 913.33,
+    "totalOrders": 15,
+    "avgTicket": 97.84,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-13T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_7778",
+    "name": "Marina Silva",
+    "status": "Active",
+    "totalSpent": 580.9,
+    "totalOrders": 5,
+    "avgTicket": 58.69,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-01T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_4987",
+    "name": "Sabrina Silva",
+    "status": "Active",
+    "totalSpent": 351.38,
+    "totalOrders": 6,
+    "avgTicket": 58.4,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-05T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_9411",
+    "name": "Carla Santos",
+    "status": "Inactive",
+    "totalSpent": 356.26,
+    "totalOrders": 7,
+    "avgTicket": 75.65,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-19T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_2308",
+    "name": "Sabrina Lima",
+    "status": "Active",
+    "totalSpent": 482.82,
+    "totalOrders": 6,
+    "avgTicket": 90.36,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-06T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_4189",
+    "name": "Natália Oliveira",
+    "status": "Active",
+    "totalSpent": 581.13,
+    "totalOrders": 5,
+    "avgTicket": 64.3,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-05T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_4766",
+    "name": "Ana Oliveira",
+    "status": "Active",
+    "totalSpent": 869.34,
+    "totalOrders": 11,
+    "avgTicket": 64.61,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-21T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_5924",
+    "name": "Diego Almeida",
+    "status": "Active",
+    "totalSpent": 288.46,
+    "totalOrders": 5,
+    "avgTicket": 60.48,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-09T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_5358",
+    "name": "Otávio Souza",
+    "status": "Active",
+    "totalSpent": 763.74,
+    "totalOrders": 13,
+    "avgTicket": 92.04,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-05T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_4296",
+    "name": "Natália Gomes",
+    "status": "Active",
+    "totalSpent": 903.01,
+    "totalOrders": 2,
+    "avgTicket": 68.27,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-21T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_9768",
+    "name": "Rafael Almeida",
+    "status": "Active",
+    "totalSpent": 491.94,
+    "totalOrders": 8,
+    "avgTicket": 93.88,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-13T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_8021",
+    "name": "Henrique Ferreira",
+    "status": "Active",
+    "totalSpent": 413.98,
+    "totalOrders": 15,
+    "avgTicket": 63.75,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-28T12:16:04.711Z",
+    "store.name": "Luigi's Trattoria",
+    "merchant": {
+      "name": "Luigi's Trattoria"
+    }
+  },
+  {
+    "id": "CUST_3858",
+    "name": "Carla Lima",
+    "status": "Active",
+    "totalSpent": 846.27,
+    "totalOrders": 9,
+    "avgTicket": 50.61,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-23T12:16:04.723Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_7295",
+    "name": "Isabela Costa",
+    "status": "Active",
+    "totalSpent": 907.15,
+    "totalOrders": 12,
+    "avgTicket": 90.14,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-06T12:16:04.723Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_1304",
+    "name": "Tiago Ferreira",
+    "status": "Active",
+    "totalSpent": 983.06,
+    "totalOrders": 12,
+    "avgTicket": 78.76,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-22T12:16:04.723Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_6082",
+    "name": "Bruno Pereira",
+    "status": "Active",
+    "totalSpent": 534.35,
+    "totalOrders": 11,
+    "avgTicket": 71.44,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-28T12:16:04.723Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_5144",
+    "name": "Carla Costa",
+    "status": "Active",
+    "totalSpent": 321.89,
+    "totalOrders": 10,
+    "avgTicket": 51.6,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-04T12:16:04.723Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_8929",
+    "name": "Otávio Silva",
+    "status": "Active",
+    "totalSpent": 822.48,
+    "totalOrders": 12,
+    "avgTicket": 67.89,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-16T12:16:04.723Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_5342",
+    "name": "Felipe Silva",
+    "status": "Active",
+    "totalSpent": 421.1,
+    "totalOrders": 5,
+    "avgTicket": 66.51,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-31T12:16:04.723Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_6458",
+    "name": "Bruno Lima",
+    "status": "Active",
+    "totalSpent": 299.73,
+    "totalOrders": 11,
+    "avgTicket": 75.19,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-10-28T12:16:04.724Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_9997",
+    "name": "Paula Oliveira",
+    "status": "Active",
+    "totalSpent": 266.63,
+    "totalOrders": 1,
+    "avgTicket": 77.42,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-05T12:16:04.724Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_3998",
+    "name": "Elisa Silva",
+    "status": "Inactive",
+    "totalSpent": 891.74,
+    "totalOrders": 11,
+    "avgTicket": 86.68,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-01T12:16:04.724Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_6269",
+    "name": "Diego Ferreira",
+    "status": "Active",
+    "totalSpent": 998.69,
+    "totalOrders": 1,
+    "avgTicket": 68.23,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-13T12:16:04.724Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_7603",
+    "name": "Diego Almeida",
+    "status": "Inactive",
+    "totalSpent": 694.85,
+    "totalOrders": 2,
+    "avgTicket": 57.59,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.724Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_9847",
+    "name": "Rafael Santos",
+    "status": "Active",
+    "totalSpent": 559.64,
+    "totalOrders": 13,
+    "avgTicket": 99.03,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-27T12:16:04.724Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_2021",
+    "name": "Karen Oliveira",
+    "status": "Active",
+    "totalSpent": 979.11,
+    "totalOrders": 6,
+    "avgTicket": 51.73,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-24T12:16:04.724Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_3643",
+    "name": "Rafael Souza",
+    "status": "Inactive",
+    "totalSpent": 422.54,
+    "totalOrders": 1,
+    "avgTicket": 80.33,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-11T12:16:04.724Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_1279",
+    "name": "Bruno Lima",
+    "status": "Active",
+    "totalSpent": 252.61,
+    "totalOrders": 5,
+    "avgTicket": 94.1,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-12T12:16:04.724Z",
+    "store.name": "Burger House Artesanal",
+    "merchant": {
+      "name": "Burger House Artesanal"
+    }
+  },
+  {
+    "id": "CUST_9776",
+    "name": "Bruno Silva",
+    "status": "Inactive",
+    "totalSpent": 837.44,
+    "totalOrders": 14,
+    "avgTicket": 30.83,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-08T12:16:04.738Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_3973",
+    "name": "Tiago Pereira",
+    "status": "Active",
+    "totalSpent": 797.14,
+    "totalOrders": 11,
+    "avgTicket": 44.14,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-26T12:16:04.738Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_7332",
+    "name": "Henrique Almeida",
+    "status": "Active",
+    "totalSpent": 442.31,
+    "totalOrders": 8,
+    "avgTicket": 36.44,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-13T12:16:04.738Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_5958",
+    "name": "Leonardo Gomes",
+    "status": "Active",
+    "totalSpent": 449.65,
+    "totalOrders": 11,
+    "avgTicket": 47.61,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-10T12:16:04.738Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_7674",
+    "name": "Carla Santos",
+    "status": "Active",
+    "totalSpent": 593.15,
+    "totalOrders": 9,
+    "avgTicket": 45.11,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-24T12:16:04.738Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_6626",
+    "name": "Diego Ferreira",
+    "status": "Active",
+    "totalSpent": 452.97,
+    "totalOrders": 10,
+    "avgTicket": 36.5,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-13T12:16:04.738Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_9062",
+    "name": "Tiago Santos",
+    "status": "Active",
+    "totalSpent": 799.24,
+    "totalOrders": 1,
+    "avgTicket": 50.99,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-29T12:16:04.739Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_2681",
+    "name": "Vitória Ferreira",
+    "status": "Active",
+    "totalSpent": 648.23,
+    "totalOrders": 14,
+    "avgTicket": 30.54,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-16T12:16:04.739Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_7129",
+    "name": "Vitória Silva",
+    "status": "Active",
+    "totalSpent": 593.67,
+    "totalOrders": 11,
+    "avgTicket": 36.47,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-20T12:16:04.739Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_2788",
+    "name": "Leonardo Souza",
+    "status": "Active",
+    "totalSpent": 328.46,
+    "totalOrders": 13,
+    "avgTicket": 32.35,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-22T12:16:04.739Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_9662",
+    "name": "Rafael Oliveira",
+    "status": "Active",
+    "totalSpent": 410.99,
+    "totalOrders": 13,
+    "avgTicket": 52.44,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-19T12:16:04.739Z",
+    "store.name": "Veggie Life Saudável",
+    "merchant": {
+      "name": "Veggie Life Saudável"
+    }
+  },
+  {
+    "id": "CUST_8579",
+    "name": "Leonardo Souza",
+    "status": "Active",
+    "totalSpent": 312.14,
+    "totalOrders": 13,
+    "avgTicket": 106.48,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-10-31T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_4419",
+    "name": "Diego Pereira",
+    "status": "Active",
+    "totalSpent": 449.06,
+    "totalOrders": 12,
+    "avgTicket": 143.24,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-10T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_8402",
+    "name": "Paula Santos",
+    "status": "Active",
+    "totalSpent": 359.83,
+    "totalOrders": 7,
+    "avgTicket": 83.81,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-22T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_9107",
+    "name": "Natália Gomes",
+    "status": "Active",
+    "totalSpent": 209.86,
+    "totalOrders": 6,
+    "avgTicket": 150.64,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-24T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_3593",
+    "name": "Natália Lima",
+    "status": "Inactive",
+    "totalSpent": 864.74,
+    "totalOrders": 5,
+    "avgTicket": 87.42,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-16T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_5011",
+    "name": "Rafael Silva",
+    "status": "Active",
+    "totalSpent": 370.52,
+    "totalOrders": 8,
+    "avgTicket": 102.62,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-22T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_8770",
+    "name": "Leonardo Santos",
+    "status": "Active",
+    "totalSpent": 475.7,
+    "totalOrders": 4,
+    "avgTicket": 140.31,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-28T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_1030",
+    "name": "Carla Silva",
+    "status": "Active",
+    "totalSpent": 681.42,
+    "totalOrders": 9,
+    "avgTicket": 134.03,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-26T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_1711",
+    "name": "Sabrina Ferreira",
+    "status": "Active",
+    "totalSpent": 522.16,
+    "totalOrders": 6,
+    "avgTicket": 146.14,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-21T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_8369",
+    "name": "Natália Oliveira",
+    "status": "Active",
+    "totalSpent": 958.94,
+    "totalOrders": 12,
+    "avgTicket": 118.23,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-24T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_6459",
+    "name": "Sabrina Souza",
+    "status": "Active",
+    "totalSpent": 857.66,
+    "totalOrders": 9,
+    "avgTicket": 137.8,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-29T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_4527",
+    "name": "Isabela Ferreira",
+    "status": "Active",
+    "totalSpent": 960.97,
+    "totalOrders": 6,
+    "avgTicket": 115.02,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-12T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_2397",
+    "name": "Gabriela Ferreira",
+    "status": "Active",
+    "totalSpent": 493.77,
+    "totalOrders": 12,
+    "avgTicket": 146.19,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-03T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_7083",
+    "name": "Karen Gomes",
+    "status": "Active",
+    "totalSpent": 207.66,
+    "totalOrders": 3,
+    "avgTicket": 133.57,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-30T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_1589",
+    "name": "Marina Pereira",
+    "status": "Inactive",
+    "totalSpent": 614.47,
+    "totalOrders": 14,
+    "avgTicket": 93.75,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-22T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_7744",
+    "name": "Paula Ferreira",
+    "status": "Active",
+    "totalSpent": 502.5,
+    "totalOrders": 5,
+    "avgTicket": 190.45,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-14T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_7926",
+    "name": "Gabriela Lima",
+    "status": "Active",
+    "totalSpent": 360.44,
+    "totalOrders": 13,
+    "avgTicket": 167.82,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_5095",
+    "name": "Bruno Souza",
+    "status": "Inactive",
+    "totalSpent": 369.44,
+    "totalOrders": 10,
+    "avgTicket": 96.05,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-20T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_8548",
+    "name": "João Pereira",
+    "status": "Active",
+    "totalSpent": 929,
+    "totalOrders": 7,
+    "avgTicket": 167.46,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-12T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_4211",
+    "name": "Carla Santos",
+    "status": "Active",
+    "totalSpent": 560.51,
+    "totalOrders": 9,
+    "avgTicket": 125.89,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-09T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_4323",
+    "name": "João Santos",
+    "status": "Active",
+    "totalSpent": 681.93,
+    "totalOrders": 14,
+    "avgTicket": 158.81,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-05T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_1589",
+    "name": "Leonardo Lima",
+    "status": "Active",
+    "totalSpent": 669.71,
+    "totalOrders": 15,
+    "avgTicket": 108.48,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-06T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_7089",
+    "name": "Natália Oliveira",
+    "status": "Active",
+    "totalSpent": 622.9,
+    "totalOrders": 2,
+    "avgTicket": 167.52,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-03T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_9449",
+    "name": "Carla Costa",
+    "status": "Active",
+    "totalSpent": 939.28,
+    "totalOrders": 2,
+    "avgTicket": 154.69,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-22T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_1078",
+    "name": "Ana Souza",
+    "status": "Active",
+    "totalSpent": 461.32,
+    "totalOrders": 9,
+    "avgTicket": 160.18,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-17T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_2493",
+    "name": "Otávio Pereira",
+    "status": "Active",
+    "totalSpent": 649.2,
+    "totalOrders": 7,
+    "avgTicket": 123.53,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-24T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_8940",
+    "name": "Rafael Santos",
+    "status": "Active",
+    "totalSpent": 913.5,
+    "totalOrders": 12,
+    "avgTicket": 198.15,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-21T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_6218",
+    "name": "Karen Oliveira",
+    "status": "Active",
+    "totalSpent": 357.73,
+    "totalOrders": 5,
+    "avgTicket": 177.48,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-23T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_5085",
+    "name": "Felipe Almeida",
+    "status": "Active",
+    "totalSpent": 905.76,
+    "totalOrders": 7,
+    "avgTicket": 153.96,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-07T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_4643",
+    "name": "Rafael Lima",
+    "status": "Active",
+    "totalSpent": 701.52,
+    "totalOrders": 1,
+    "avgTicket": 117.87,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-03T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_9970",
+    "name": "Vitória Costa",
+    "status": "Inactive",
+    "totalSpent": 737.76,
+    "totalOrders": 13,
+    "avgTicket": 163.57,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-09T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_6215",
+    "name": "Diego Pereira",
+    "status": "Active",
+    "totalSpent": 770.31,
+    "totalOrders": 1,
+    "avgTicket": 85.93,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-12T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_8920",
+    "name": "Elisa Lima",
+    "status": "Active",
+    "totalSpent": 901.39,
+    "totalOrders": 5,
+    "avgTicket": 112.9,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-20T12:16:04.754Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_7935",
+    "name": "Rafael Costa",
+    "status": "Inactive",
+    "totalSpent": 625.07,
+    "totalOrders": 1,
+    "avgTicket": 179,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-16T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_5554",
+    "name": "Carla Silva",
+    "status": "Active",
+    "totalSpent": 365.83,
+    "totalOrders": 6,
+    "avgTicket": 169.97,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-10T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_1802",
+    "name": "Vitória Souza",
+    "status": "Active",
+    "totalSpent": 240.12,
+    "totalOrders": 8,
+    "avgTicket": 116.62,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-23T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_3324",
+    "name": "Carla Pereira",
+    "status": "Active",
+    "totalSpent": 389.61,
+    "totalOrders": 10,
+    "avgTicket": 193.79,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-16T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_3114",
+    "name": "Ana Ferreira",
+    "status": "Active",
+    "totalSpent": 576.39,
+    "totalOrders": 11,
+    "avgTicket": 158.12,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-04T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_1115",
+    "name": "Otávio Pereira",
+    "status": "Active",
+    "totalSpent": 411.6,
+    "totalOrders": 11,
+    "avgTicket": 156.02,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-30T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_8673",
+    "name": "Marina Silva",
+    "status": "Inactive",
+    "totalSpent": 940.57,
+    "totalOrders": 2,
+    "avgTicket": 174.27,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-16T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_9793",
+    "name": "Ana Lima",
+    "status": "Active",
+    "totalSpent": 299.71,
+    "totalOrders": 4,
+    "avgTicket": 141.91,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-07T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_4545",
+    "name": "Otávio Souza",
+    "status": "Active",
+    "totalSpent": 666.84,
+    "totalOrders": 12,
+    "avgTicket": 120.46,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-19T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_4891",
+    "name": "Natália Gomes",
+    "status": "Active",
+    "totalSpent": 267.12,
+    "totalOrders": 12,
+    "avgTicket": 162.31,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-28T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_9828",
+    "name": "Leonardo Silva",
+    "status": "Active",
+    "totalSpent": 524.97,
+    "totalOrders": 3,
+    "avgTicket": 106.51,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-10-26T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_3097",
+    "name": "Leonardo Oliveira",
+    "status": "Inactive",
+    "totalSpent": 649.91,
+    "totalOrders": 15,
+    "avgTicket": 114.94,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-17T12:16:04.755Z",
+    "store.name": "Churrascaria Boi na Brasa",
+    "merchant": {
+      "name": "Churrascaria Boi na Brasa"
+    }
+  },
+  {
+    "id": "CUST_3571",
+    "name": "Natália Ferreira",
+    "status": "Active",
+    "totalSpent": 442.18,
+    "totalOrders": 3,
+    "avgTicket": 77.8,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-27T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_5245",
+    "name": "Otávio Ferreira",
+    "status": "Active",
+    "totalSpent": 551.37,
+    "totalOrders": 7,
+    "avgTicket": 75.16,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-01T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_6790",
+    "name": "Marina Lima",
+    "status": "Inactive",
+    "totalSpent": 431.65,
+    "totalOrders": 13,
+    "avgTicket": 68.68,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-26T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_2563",
+    "name": "Elisa Santos",
+    "status": "Active",
+    "totalSpent": 668.37,
+    "totalOrders": 3,
+    "avgTicket": 84.34,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-06T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_6979",
+    "name": "Natália Silva",
+    "status": "Active",
+    "totalSpent": 960.54,
+    "totalOrders": 11,
+    "avgTicket": 84.35,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-31T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_1367",
+    "name": "Karen Almeida",
+    "status": "Inactive",
+    "totalSpent": 287.07,
+    "totalOrders": 11,
+    "avgTicket": 77.48,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-06T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_1425",
+    "name": "Felipe Souza",
+    "status": "Active",
+    "totalSpent": 780.78,
+    "totalOrders": 6,
+    "avgTicket": 58.06,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-02T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_1674",
+    "name": "Natália Ferreira",
+    "status": "Inactive",
+    "totalSpent": 719.47,
+    "totalOrders": 13,
+    "avgTicket": 54.98,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-07T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_9151",
+    "name": "Sabrina Silva",
+    "status": "Active",
+    "totalSpent": 822.1,
+    "totalOrders": 14,
+    "avgTicket": 69.38,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-28T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_5402",
+    "name": "Carla Santos",
+    "status": "Active",
+    "totalSpent": 667.68,
+    "totalOrders": 2,
+    "avgTicket": 82.38,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_7749",
+    "name": "Isabela Gomes",
+    "status": "Active",
+    "totalSpent": 580.4,
+    "totalOrders": 6,
+    "avgTicket": 50.27,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-03T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_4893",
+    "name": "Bruno Pereira",
+    "status": "Inactive",
+    "totalSpent": 994.21,
+    "totalOrders": 9,
+    "avgTicket": 70.11,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-03T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_7309",
+    "name": "Vitória Santos",
+    "status": "Active",
+    "totalSpent": 543.23,
+    "totalOrders": 15,
+    "avgTicket": 55.79,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-20T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_9574",
+    "name": "Karen Almeida",
+    "status": "Active",
+    "totalSpent": 481.72,
+    "totalOrders": 10,
+    "avgTicket": 59.23,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-08T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_2664",
+    "name": "Natália Pereira",
+    "status": "Active",
+    "totalSpent": 207.76,
+    "totalOrders": 9,
+    "avgTicket": 74.11,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-05T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_6777",
+    "name": "Vitória Lima",
+    "status": "Active",
+    "totalSpent": 406.58,
+    "totalOrders": 3,
+    "avgTicket": 89.68,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-04T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_4935",
+    "name": "Felipe Santos",
+    "status": "Active",
+    "totalSpent": 270.14,
+    "totalOrders": 10,
+    "avgTicket": 78.56,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-31T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_2219",
+    "name": "Natália Costa",
+    "status": "Active",
+    "totalSpent": 240.57,
+    "totalOrders": 12,
+    "avgTicket": 73.82,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-01T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_5697",
+    "name": "Elisa Lima",
+    "status": "Active",
+    "totalSpent": 397.7,
+    "totalOrders": 13,
+    "avgTicket": 52.06,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-12T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_5147",
+    "name": "Karen Santos",
+    "status": "Active",
+    "totalSpent": 964.19,
+    "totalOrders": 1,
+    "avgTicket": 69.9,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-01T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_1505",
+    "name": "Karen Pereira",
+    "status": "Inactive",
+    "totalSpent": 779.99,
+    "totalOrders": 5,
+    "avgTicket": 78.87,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-15T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_6977",
+    "name": "Ana Ferreira",
+    "status": "Inactive",
+    "totalSpent": 677.37,
+    "totalOrders": 13,
+    "avgTicket": 86.21,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-12T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_7961",
+    "name": "Paula Souza",
+    "status": "Active",
+    "totalSpent": 813.18,
+    "totalOrders": 2,
+    "avgTicket": 76.58,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-23T12:16:04.764Z",
+    "store.name": "Açaí da Praia",
+    "merchant": {
+      "name": "Açaí da Praia"
+    }
+  },
+  {
+    "id": "CUST_8549",
+    "name": "Bruno Pereira",
+    "status": "Active",
+    "totalSpent": 201.41,
+    "totalOrders": 14,
+    "avgTicket": 30.22,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-12T12:16:04.773Z",
+    "store.name": "Taco Loco Mexicano",
+    "merchant": {
+      "name": "Taco Loco Mexicano"
+    }
+  },
+  {
+    "id": "CUST_4149",
+    "name": "Carla Ferreira",
+    "status": "Active",
+    "totalSpent": 201.08,
+    "totalOrders": 13,
+    "avgTicket": 44.12,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-23T12:16:04.773Z",
+    "store.name": "Taco Loco Mexicano",
+    "merchant": {
+      "name": "Taco Loco Mexicano"
+    }
+  },
+  {
+    "id": "CUST_3270",
+    "name": "Otávio Gomes",
+    "status": "Active",
+    "totalSpent": 860.1,
+    "totalOrders": 11,
+    "avgTicket": 40.08,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-29T12:16:04.773Z",
+    "store.name": "Taco Loco Mexicano",
+    "merchant": {
+      "name": "Taco Loco Mexicano"
+    }
+  },
+  {
+    "id": "CUST_8625",
+    "name": "Henrique Costa",
+    "status": "Active",
+    "totalSpent": 254.88,
+    "totalOrders": 3,
+    "avgTicket": 44.34,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-13T12:16:04.773Z",
+    "store.name": "Taco Loco Mexicano",
+    "merchant": {
+      "name": "Taco Loco Mexicano"
+    }
+  },
+  {
+    "id": "CUST_6815",
+    "name": "Rafael Souza",
+    "status": "Active",
+    "totalSpent": 370.27,
+    "totalOrders": 13,
+    "avgTicket": 42.11,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-11T12:16:04.773Z",
+    "store.name": "Taco Loco Mexicano",
+    "merchant": {
+      "name": "Taco Loco Mexicano"
+    }
+  },
+  {
+    "id": "CUST_8624",
+    "name": "Diego Pereira",
+    "status": "Inactive",
+    "totalSpent": 864.14,
+    "totalOrders": 15,
+    "avgTicket": 33.45,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-30T12:16:04.773Z",
+    "store.name": "Taco Loco Mexicano",
+    "merchant": {
+      "name": "Taco Loco Mexicano"
+    }
+  },
+  {
+    "id": "CUST_9949",
+    "name": "Rafael Silva",
+    "status": "Active",
+    "totalSpent": 262.77,
+    "totalOrders": 8,
+    "avgTicket": 36.36,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-04T12:16:04.773Z",
+    "store.name": "Taco Loco Mexicano",
+    "merchant": {
+      "name": "Taco Loco Mexicano"
+    }
+  },
+  {
+    "id": "CUST_1342",
+    "name": "Karen Silva",
+    "status": "Active",
+    "totalSpent": 914.53,
+    "totalOrders": 10,
+    "avgTicket": 52.34,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-27T12:16:04.773Z",
+    "store.name": "Taco Loco Mexicano",
+    "merchant": {
+      "name": "Taco Loco Mexicano"
+    }
+  },
+  {
+    "id": "CUST_5886",
+    "name": "Carla Ferreira",
+    "status": "Inactive",
+    "totalSpent": 798.01,
+    "totalOrders": 10,
+    "avgTicket": 60,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-20T12:16:04.773Z",
+    "store.name": "Taco Loco Mexicano",
+    "merchant": {
+      "name": "Taco Loco Mexicano"
+    }
+  },
+  {
+    "id": "CUST_2923",
+    "name": "João Almeida",
+    "status": "Active",
+    "totalSpent": 281.39,
+    "totalOrders": 7,
+    "avgTicket": 37.14,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-07T12:16:04.773Z",
+    "store.name": "Taco Loco Mexicano",
+    "merchant": {
+      "name": "Taco Loco Mexicano"
+    }
+  },
+  {
+    "id": "CUST_7387",
+    "name": "João Lima",
+    "status": "Inactive",
+    "totalSpent": 643.06,
+    "totalOrders": 9,
+    "avgTicket": 145.71,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-31T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_7334",
+    "name": "Marina Costa",
+    "status": "Active",
+    "totalSpent": 865.04,
+    "totalOrders": 10,
+    "avgTicket": 133.06,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-10-26T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_6166",
+    "name": "Otávio Ferreira",
+    "status": "Active",
+    "totalSpent": 772.07,
+    "totalOrders": 13,
+    "avgTicket": 194.15,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-08T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_2873",
+    "name": "Elisa Souza",
+    "status": "Active",
+    "totalSpent": 980.45,
+    "totalOrders": 2,
+    "avgTicket": 197.76,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-14T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_8531",
+    "name": "Carla Santos",
+    "status": "Active",
+    "totalSpent": 604.65,
+    "totalOrders": 9,
+    "avgTicket": 167.76,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-10T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_7517",
+    "name": "Otávio Gomes",
+    "status": "Active",
+    "totalSpent": 784.38,
+    "totalOrders": 10,
+    "avgTicket": 192.58,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-16T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_5854",
+    "name": "Gabriela Silva",
+    "status": "Inactive",
+    "totalSpent": 459.92,
+    "totalOrders": 4,
+    "avgTicket": 196.99,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-29T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_5479",
+    "name": "João Ferreira",
+    "status": "Active",
+    "totalSpent": 826.18,
+    "totalOrders": 6,
+    "avgTicket": 112.93,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-22T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_2812",
+    "name": "Tiago Almeida",
+    "status": "Active",
+    "totalSpent": 563.04,
+    "totalOrders": 1,
+    "avgTicket": 186.84,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-09T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_6675",
+    "name": "Henrique Lima",
+    "status": "Active",
+    "totalSpent": 461.73,
+    "totalOrders": 1,
+    "avgTicket": 159.77,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_8324",
+    "name": "Marina Souza",
+    "status": "Active",
+    "totalSpent": 550.32,
+    "totalOrders": 10,
+    "avgTicket": 100.19,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-07T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_4806",
+    "name": "Ana Oliveira",
+    "status": "Inactive",
+    "totalSpent": 497.16,
+    "totalOrders": 15,
+    "avgTicket": 113.11,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-26T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_7343",
+    "name": "Elisa Souza",
+    "status": "Inactive",
+    "totalSpent": 504.76,
+    "totalOrders": 5,
+    "avgTicket": 150.94,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-30T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_6158",
+    "name": "Bruno Souza",
+    "status": "Active",
+    "totalSpent": 967.51,
+    "totalOrders": 12,
+    "avgTicket": 104.48,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-18T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_9827",
+    "name": "Ana Santos",
+    "status": "Active",
+    "totalSpent": 425.23,
+    "totalOrders": 1,
+    "avgTicket": 196.21,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-18T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_1310",
+    "name": "Rafael Almeida",
+    "status": "Active",
+    "totalSpent": 983.59,
+    "totalOrders": 10,
+    "avgTicket": 191.81,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-27T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_4223",
+    "name": "Tiago Souza",
+    "status": "Active",
+    "totalSpent": 565.75,
+    "totalOrders": 1,
+    "avgTicket": 126.98,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-06T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_9524",
+    "name": "Felipe Gomes",
+    "status": "Active",
+    "totalSpent": 295.53,
+    "totalOrders": 1,
+    "avgTicket": 154.24,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-01T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_5312",
+    "name": "Leonardo Gomes",
+    "status": "Active",
+    "totalSpent": 355.82,
+    "totalOrders": 7,
+    "avgTicket": 161.23,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-04T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_1679",
+    "name": "Elisa Souza",
+    "status": "Inactive",
+    "totalSpent": 406.68,
+    "totalOrders": 4,
+    "avgTicket": 186.13,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-26T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_2018",
+    "name": "Ana Souza",
+    "status": "Active",
+    "totalSpent": 364.9,
+    "totalOrders": 14,
+    "avgTicket": 81.44,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-13T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_8963",
+    "name": "Tiago Lima",
+    "status": "Active",
+    "totalSpent": 227.58,
+    "totalOrders": 6,
+    "avgTicket": 170.55,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-18T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_1852",
+    "name": "Felipe Souza",
+    "status": "Inactive",
+    "totalSpent": 646.38,
+    "totalOrders": 7,
+    "avgTicket": 99.31,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-18T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_9876",
+    "name": "Rafael Silva",
+    "status": "Active",
+    "totalSpent": 947.25,
+    "totalOrders": 15,
+    "avgTicket": 180.64,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-20T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_1281",
+    "name": "Paula Costa",
+    "status": "Active",
+    "totalSpent": 574.25,
+    "totalOrders": 8,
+    "avgTicket": 154.66,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-22T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_8147",
+    "name": "Leonardo Lima",
+    "status": "Inactive",
+    "totalSpent": 729.98,
+    "totalOrders": 12,
+    "avgTicket": 152.11,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-31T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_2215",
+    "name": "Leonardo Santos",
+    "status": "Active",
+    "totalSpent": 350.98,
+    "totalOrders": 6,
+    "avgTicket": 160.72,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-04T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_2539",
+    "name": "João Costa",
+    "status": "Active",
+    "totalSpent": 623.75,
+    "totalOrders": 1,
+    "avgTicket": 131.56,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-16T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_6428",
+    "name": "Karen Almeida",
+    "status": "Active",
+    "totalSpent": 279.29,
+    "totalOrders": 11,
+    "avgTicket": 164.85,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-06T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_7816",
+    "name": "Carla Oliveira",
+    "status": "Active",
+    "totalSpent": 986.36,
+    "totalOrders": 8,
+    "avgTicket": 102.87,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-10-31T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_7120",
+    "name": "Ana Lima",
+    "status": "Inactive",
+    "totalSpent": 512.25,
+    "totalOrders": 8,
+    "avgTicket": 116.41,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-23T12:16:04.784Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_3608",
+    "name": "Paula Pereira",
+    "status": "Inactive",
+    "totalSpent": 865.12,
+    "totalOrders": 6,
+    "avgTicket": 198.1,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-30T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_7942",
+    "name": "Paula Ferreira",
+    "status": "Active",
+    "totalSpent": 540.45,
+    "totalOrders": 10,
+    "avgTicket": 182.66,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-14T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_9660",
+    "name": "Henrique Ferreira",
+    "status": "Active",
+    "totalSpent": 257.52,
+    "totalOrders": 15,
+    "avgTicket": 151.11,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-05T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_6693",
+    "name": "Ana Almeida",
+    "status": "Active",
+    "totalSpent": 935.49,
+    "totalOrders": 8,
+    "avgTicket": 116.54,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-14T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_3207",
+    "name": "João Lima",
+    "status": "Inactive",
+    "totalSpent": 539.44,
+    "totalOrders": 13,
+    "avgTicket": 85.49,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-29T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_1602",
+    "name": "Karen Ferreira",
+    "status": "Active",
+    "totalSpent": 384.56,
+    "totalOrders": 7,
+    "avgTicket": 192.55,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-23T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_4800",
+    "name": "Marina Costa",
+    "status": "Active",
+    "totalSpent": 289.23,
+    "totalOrders": 2,
+    "avgTicket": 148.14,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-31T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_6640",
+    "name": "Rafael Silva",
+    "status": "Active",
+    "totalSpent": 682.2,
+    "totalOrders": 8,
+    "avgTicket": 180.2,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-05T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_2463",
+    "name": "Leonardo Silva",
+    "status": "Active",
+    "totalSpent": 592.01,
+    "totalOrders": 14,
+    "avgTicket": 169.87,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-23T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_3931",
+    "name": "João Santos",
+    "status": "Active",
+    "totalSpent": 805.36,
+    "totalOrders": 7,
+    "avgTicket": 86.68,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-23T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_6122",
+    "name": "Diego Silva",
+    "status": "Active",
+    "totalSpent": 919.47,
+    "totalOrders": 11,
+    "avgTicket": 89.47,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-10T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_5718",
+    "name": "Leonardo Oliveira",
+    "status": "Inactive",
+    "totalSpent": 833.82,
+    "totalOrders": 4,
+    "avgTicket": 128.26,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-20T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_1804",
+    "name": "Tiago Ferreira",
+    "status": "Active",
+    "totalSpent": 230.35,
+    "totalOrders": 13,
+    "avgTicket": 183.14,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-18T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_4927",
+    "name": "Sabrina Silva",
+    "status": "Active",
+    "totalSpent": 658.88,
+    "totalOrders": 8,
+    "avgTicket": 137.96,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-30T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_2441",
+    "name": "Karen Gomes",
+    "status": "Inactive",
+    "totalSpent": 770.4,
+    "totalOrders": 11,
+    "avgTicket": 113.65,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-22T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_5048",
+    "name": "Sabrina Silva",
+    "status": "Active",
+    "totalSpent": 761.17,
+    "totalOrders": 7,
+    "avgTicket": 196.69,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-16T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_1287",
+    "name": "Felipe Oliveira",
+    "status": "Active",
+    "totalSpent": 935.9,
+    "totalOrders": 10,
+    "avgTicket": 151.67,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-10T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_7148",
+    "name": "Henrique Gomes",
+    "status": "Active",
+    "totalSpent": 941.74,
+    "totalOrders": 3,
+    "avgTicket": 158.11,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-15T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_2400",
+    "name": "Paula Silva",
+    "status": "Active",
+    "totalSpent": 237.16,
+    "totalOrders": 4,
+    "avgTicket": 108.63,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-20T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_5072",
+    "name": "Tiago Costa",
+    "status": "Active",
+    "totalSpent": 314.27,
+    "totalOrders": 12,
+    "avgTicket": 133.07,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-22T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_1080",
+    "name": "Rafael Lima",
+    "status": "Active",
+    "totalSpent": 797.42,
+    "totalOrders": 4,
+    "avgTicket": 146.26,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-20T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_5809",
+    "name": "Elisa Santos",
+    "status": "Active",
+    "totalSpent": 852.84,
+    "totalOrders": 11,
+    "avgTicket": 182.69,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-07T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_7741",
+    "name": "Rafael Pereira",
+    "status": "Active",
+    "totalSpent": 743.32,
+    "totalOrders": 6,
+    "avgTicket": 187.83,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-23T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_2213",
+    "name": "Natália Costa",
+    "status": "Active",
+    "totalSpent": 612.04,
+    "totalOrders": 1,
+    "avgTicket": 101.01,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-11-14T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_2877",
+    "name": "Vitória Almeida",
+    "status": "Active",
+    "totalSpent": 956.8,
+    "totalOrders": 14,
+    "avgTicket": 110.47,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-18T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_8454",
+    "name": "Diego Silva",
+    "status": "Active",
+    "totalSpent": 602.14,
+    "totalOrders": 6,
+    "avgTicket": 130.71,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-01T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_5738",
+    "name": "Leonardo Souza",
+    "status": "Active",
+    "totalSpent": 257.79,
+    "totalOrders": 9,
+    "avgTicket": 165.81,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-08T12:16:04.785Z",
+    "store.name": "Padaria do Seu Manuel",
+    "merchant": {
+      "name": "Padaria do Seu Manuel"
+    }
+  },
+  {
+    "id": "CUST_4861",
+    "name": "Otávio Almeida",
+    "status": "Active",
+    "totalSpent": 513.33,
+    "totalOrders": 12,
+    "avgTicket": 33.83,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-05T12:16:04.794Z",
+    "store.name": "Café Aroma & Grão",
+    "merchant": {
+      "name": "Café Aroma & Grão"
+    }
+  },
+  {
+    "id": "CUST_5248",
+    "name": "Karen Pereira",
+    "status": "Inactive",
+    "totalSpent": 899.01,
+    "totalOrders": 10,
+    "avgTicket": 55.73,
+    "churnRisk": true,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-11-02T12:16:04.794Z",
+    "store.name": "Café Aroma & Grão",
+    "merchant": {
+      "name": "Café Aroma & Grão"
+    }
+  },
+  {
+    "id": "CUST_3135",
+    "name": "Marina Santos",
+    "status": "Active",
+    "totalSpent": 302.74,
+    "totalOrders": 5,
+    "avgTicket": 45.34,
+    "churnRisk": false,
+    "isVIP": false,
+    "segment": "Regular",
+    "lastOrder": "2025-10-29T12:16:04.794Z",
+    "store.name": "Café Aroma & Grão",
+    "merchant": {
+      "name": "Café Aroma & Grão"
+    }
+  },
+  {
+    "id": "CUST_3764",
+    "name": "Bruno Ferreira",
+    "status": "Active",
+    "totalSpent": 547.45,
+    "totalOrders": 5,
+    "avgTicket": 43.05,
+    "churnRisk": false,
+    "isVIP": true,
+    "segment": "Regular",
+    "lastOrder": "2025-10-30T12:16:04.794Z",
+    "store.name": "Café Aroma & Grão",
+    "merchant": {
+      "name": "Café Aroma & Grão"
+    }
+  },
+  {
+    "id": "CUST_9789",
+    "name": "Rafael Gomes",
+    "status": "Inactive",
+    "totalSpent": 857.11,
+    "totalOrders": 5,
+    "avgTicket": 49.43,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-10-30T12:16:04.794Z",
+    "store.name": "Café Aroma & Grão",
+    "merchant": {
+      "name": "Café Aroma & Grão"
+    }
+  },
+  {
+    "id": "CUST_4454",
+    "name": "Bruno Costa",
+    "status": "Inactive",
+    "totalSpent": 317.14,
+    "totalOrders": 4,
+    "avgTicket": 53.37,
+    "churnRisk": true,
+    "isVIP": true,
+    "segment": "Loyal",
+    "lastOrder": "2025-11-13T12:16:04.794Z",
+    "store.name": "Café Aroma & Grão",
+    "merchant": {
+      "name": "Café Aroma & Grão"
+    }
+  }
+]

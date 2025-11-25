@@ -1,0 +1,7 @@
+# Ignorar variáveis de ambiente
+
+
+# Node
+node_modules
+npm-debug.log
+dist
